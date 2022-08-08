@@ -1,0 +1,346 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#chart, .chart-box {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 22px 35px -16px rgba(0, 0, 0, 0.1);
+}
+
+.chart-card {
+    width: 100%;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 4px;
+}
+
+.chart-card h4 {
+    margin-top: 0;
+}
+.graphina_dynamic_change_type{
+  width : 25%
+}
+
+.graphina_dynamic_change_type,
+.graphina_chart_filter select {
+    margin-bottom: 7px;
+    margin-right: 14px;
+}
+
+.graphina_chart_filter label,
+.graphina_chart_filter select,
+.graphina_chart_filter input{
+    color: #000000;
+}
+
+.graphina_chart_filter select:last-child{
+    margin-right: unset;
+}
+
+select.flat-select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #008FFB url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'60px\' height=\'60px\'><polyline fill=\'white\' points=\'46.139,15.518 25.166,36.49 4.193,15.519\'/></svg>") no-repeat scroll right 2px top 9px / 16px 16px;
+    border: 0 none;
+    border-radius: 3px;
+    color: #fff;
+    font-family: arial, tahoma;
+    font-size: 16px;
+    font-weight: bold;
+    outline: 0 none;
+    height: 33px;
+    padding: 5px 20px 5px 10px;
+    text-align: center;
+    text-indent: 0.01px;
+    text-overflow: "";
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    transition: all 0.3s ease 0s;
+    width: auto;
+    -webkit-transition: 0.3s ease all;
+    -moz-transition: 0.3s ease all;
+    -ms-transition: 0.3s ease all;
+    -o-transition: 0.3s ease all;
+    transition: 0.3s ease all;
+}
+
+select.flat-select:focus, select.flat-select:hover {
+    border: 0;
+    outline: 0;
+}
+
+.apexcharts-canvas {
+    margin: 0 auto;
+}
+
+body div.chart-texture,
+body div[class^="timeline-chart-"],
+body div[class^="radial-chart-"],
+body div[class^="polar-chart-"],
+body div[class^="pie-chart-"],
+body div[class^="line-chart-"],
+body div[class^="heatmap-chart-"],
+body div[class^="donut-chart-"],
+body div[class^="column-chart-"],
+body div[class^="candle-chart-"],
+body div[class^="bubble-chart-"],
+body div[class^="area-chart-"] {
+    color: #38383b;
+}
+
+body div.chart-texture,
+body div.nested_column-chart-one {
+    min-height: 350px;
+}
+
+button.sample-download-btn {
+    padding: 0 10px;
+}
+
+@media screen and (max-width: 674px) {
+  .chart-card {
+    padding: 25px 0px !important;
+  }
+}
+
+.graphina-filter-div{
+    padding: 0 5px 5px 0;
+}
+
+.graphina-loader{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.graphina-filter-div select{
+    width: 100%;
+}
+
+.graphina-filter-div-button{
+    margin-bottom: 7px;
+}
+
+.graphina-filter-div{
+    margin-right: 1rem;
+}
+
+
+#elementor-panel-category-iq-graphina-charts .elementor-element--promotion .eicon-lock:before {
+	content: "\e893" !important;
+    color: #556068;
+    font-size: 15px;
+}
+
+#elementor-panel-category-iq-graphina-google-charts .elementor-element--promotion .eicon-lock:before {
+    content: "\e893" !important;
+    color: #556068;
+    font-size: 15px;
+}
+
+/* .elementor-panel-category-items .elementor-element-wrapper .elementor-element .googlechart-icon {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.elementor-panel-category-items .elementor-element-wrapper .elementor-element .apexchart-icon {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+} */
+
+/* ========================================================================================
+                     before
+=============================================================================================*/
+
+.elementor-panel .elementor-element  [class*="graphina-google-"]::before,
+.elementor-panel .elementor-element  [class*="graphina-apex-"]::before {
+    display: inline-block;
+    text-rendering: auto;
+    font: normal normal normal 14px/1 "";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.elementor-panel .elementor-element [class*="graphina-google-"]::before {
+    display: block; 
+}
+
+.graphina-google-area-chart::before,
+.graphina-apex-area-chart::before {
+    content: "\f1fe";
+}
+
+.graphina-google-bar-chart::before {
+    content: "\f080";
+}
+
+.graphina-google-column-chart::before,
+.graphina-apex-column-chart::before {
+    content: "\f080";
+}
+
+.graphina-google-gantt-chart::before {
+    content: "\f542";
+}
+
+.graphina-google-donat-chart::before,
+.graphina-apex-donat-chart::before {
+    content: "\f192";
+}
+
+.graphina-google-pie-chart::before,
+.graphina-apex-pie-chart::before  {
+    content: "\f200";
+}
+
+.graphina-google-gauge-chart::before{
+    content:"\f3fd";
+}
+
+.graphina-google-geo-chart::before{
+    content:"\f57e";
+}
+.graphina-google-org-chart::before {
+    content: "\f0e8";
+}
+
+.graphina-google-line-chart::before ,
+.graphina-apex-line-chart::before{
+    content: "\f201";
+}
+
+.graphina-apex-bubble-chart::before{
+    content: "\f2a1";
+}
+
+.graphina-apex-datatable-chart::before{
+    content: "\f0ce";
+}
+
+.graphina-apex-animatedradial-chart::before{
+    content: "\f50c";
+    font-family: 'Font Awesome 5 brands' !important;
+}
+.graphina-apex-candle-chart::before{
+    content: "\f426";
+    font-family: 'Font Awesome 5 brands' !important;
+}
+
+.graphina-apex-distributedcolumn-chart::before{
+    content: "\f080";
+}
+
+.graphina-apex-heatmap-chart::before{
+    content: "\f00a";
+}
+
+.graphina-apex-radial-chart::before{
+    content: "\f1ce";
+}
+
+.graphina-apex-scatter-chart::before{
+    content: "\f43c";
+}
+
+.graphina-apex-timeline-chart::before{
+    content: "\f550";
+}
+
+.graphina-apex-brush-chart::before{
+    content: "\f0c9";
+}
+
+.graphina-apex-nestedcolmn-chart::before{
+    content: "\f83e";
+}
+
+.graphina-apex-mixed-chart::before{
+    content: "\f773";
+}
+
+.graphina-apex-counter-chart::before{
+    content: "\f887";
+}
+.graphina-apex-datatable-chart::before{
+    content: "\f0ce";
+}
+
+.graphina-apex-polar-chart::before{
+    content: "\f835";
+    font-family: 'Font Awesome 5 brands' !important;
+}
+
+.graphina-apex-radar-chart::before{
+    content: "\f20e";
+    font-family: 'Font Awesome 5 brands' !important;
+} 
+
+/* ========================================================================================
+                        After
+=============================================================================================*/
+/* Google */
+.elementor-panel .elementor-element [class*="graphina-google-"]::after,
+.elementor-control-iq_area_google_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_line_google_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_pie_google_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_donut_google_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_column_google_section_1 .elementor-control-content .elementor-panel-heading::after ,
+.elementor-control-iq_bar_google_section_1 .elementor-control-content .elementor-panel-heading::after ,
+.elementor-control-iq_org_google_section_1 .elementor-control-content .elementor-panel-heading::after {
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    color: #4885ed;
+    top: 10px;
+    right: 0;
+    position: absolute;
+    display: inline-block;
+    content: "";
+    background: url("https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png") no-repeat;
+}
+/* Apex */
+.elementor-panel .elementor-element [class*="graphina-apex-"]::after,
+.elementor-control-iq_area_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_nested_column_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_mixed_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_advance-datatable_section_data_options .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_counter_section_5_2 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_brush_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_line_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_column_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_pie_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_donut_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_radar_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_bubble_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_candle_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_heatmap_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_radial_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_timeline_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_polar_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_scatter_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_animated-radial_section_1 .elementor-control-content .elementor-panel-heading::after,
+.elementor-control-iq_distributed_column_section_1 .elementor-control-content .elementor-panel-heading::after
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    color: #4885ed;
+    top: 10px;
+    right: 0;
+    position: absolute;
+    display: inline-block;
+    content: "";
+    background: url("https://apexcharts.com/wp-content/themes/apexcharts/favicon.ico") no-repeat;
+}

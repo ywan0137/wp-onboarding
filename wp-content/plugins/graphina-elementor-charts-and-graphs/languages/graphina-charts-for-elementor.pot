@@ -1,0 +1,3181 @@
+# Copyright (C) 2022 Iqonic Design
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphina - Elementor Charts and Graphs 1.7.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/graphina-lite\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-27T17:49:32+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: graphina-charts-for-elementor\n"
+
+#. Plugin Name of the plugin
+#: elementor/class-graphina-charts-for-elementor-public.php:273
+msgid "Graphina - Elementor Charts and Graphs"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://iqonicthemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Your ultimate charts and graphs solution to enhance visual effects. Create versatile, advanced and interactive charts on your website."
+msgstr ""
+
+#. Author of the plugin
+msgid "Iqonic Design"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://iqonic.design/"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:47
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:48
+msgid "You won't be able to revert this!"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:49
+msgid "Yes, delete it!"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:59
+#: admin/class-graphina-charts-for-elementor-admin.php:60
+msgid "Graphina Charts"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:69
+msgid "Graphina Charts Setting"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:70
+#: admin/class-graphina-charts-for-elementor-admin.php:112
+#: graphina-charts-for-elementor.php:104
+msgid "Settings"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:76
+msgid "Graphina Charts Documentation"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:77
+#: admin/class-graphina-charts-for-elementor-admin.php:130
+#: admin/class-graphina-charts-for-elementor-admin.php:132
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:83
+msgid "Graphina Charts Request Feature"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:84
+msgid "Request a Feature"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:91
+msgid "Graphina Charts Pro"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:92
+msgid "Go Pro"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:114
+#: admin/class-graphina-charts-for-elementor-admin.php:184
+#: admin/class-graphina-charts-for-elementor-admin.php:201
+msgid "Pro"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:116
+msgid "External Database"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:131
+msgid "Get started by spending some time with the documentation to get familiar with Graphina Charts."
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:139
+msgid "Need Help?"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:141
+msgid "We are constantly working to make your experience better. Still faced a problem? Need assistance ?"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:142
+msgid "Contact Us"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:170
+msgid "Select Chart Js :  "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:172
+msgid "Apex Chart Js"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:174
+msgid "Google Chart Js"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:178
+msgid "Thousand Seperator: "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:183
+msgid "CSV Seperator :"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:187
+msgid "Comma"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:188
+msgid "Semicolon"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:193
+msgid "View Port : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:195
+#: utils/graphina_chart_helper.php:4578
+msgid "Disable"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:196
+msgid "Note : Disable  chart and counter render when it come in viewport ,render chart and counter when page load (default chart and counter are render when it in viewport)"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:200
+msgid "Chart Filter loader: "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:204
+msgid "Enable "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:208
+msgid "-Available In Pro Version"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:214
+msgid "Upload Filter Loader"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:222
+msgid "Chart Filter working only in Graphina pro"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:227
+#: admin/class-graphina-charts-for-elementor-admin.php:300
+msgid "Save Setting"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:250
+msgid "Connection Detail"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:254
+msgid "(This features is available in Graphina pro plugin Buy Now )"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:263
+msgid "Connection Name : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:267
+msgid "Vendor : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:269
+msgid "MySQL"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:276
+msgid "Database Name : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:280
+msgid "Host : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:287
+msgid "Username : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:291
+msgid "Password : "
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:301
+msgid "Test DB Setting"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:304
+msgid "Reset"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:316
+msgid "Connection Name"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:317
+#: admin/class-graphina-charts-for-elementor-admin.php:318
+msgid "Action"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:329
+msgid "Edit"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:337
+msgid "Delete"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:358
+msgid "Graphina Pro"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:360
+msgid "Graphina Pro has a powerful set of options, with Dynamic data and new counters, data table, mixed chart, and nested column chart; it has a wide range of charts and adaptability. Dynamic Data for all widgets (Google Sheet, CSV,Database and API)"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:361
+#: admin/class-graphina-charts-for-elementor-admin.php:371
+msgid "Buy Now"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:368
+msgid "Graphina Firebase"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:370
+msgid "Graphina Firebase Helps in getting data dynamically from Firebase real-time database. This helps you make your website show real-time data from this latest tech out there."
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:392
+msgid "Action Not found"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:397
+#: admin/class-graphina-charts-for-elementor-admin.php:429
+msgid "Invalid nonce"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:407
+msgid "Setting saved"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:408
+#: admin/class-graphina-charts-for-elementor-admin.php:514
+msgid "Your setting has been saved!"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:410
+msgid "Setting Not saved"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:425
+msgid "not saved"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:474
+msgid "Connection name delete"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:476
+msgid "Connection Name not found"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:487
+msgid "Connection detail Updated"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:498
+#: admin/class-graphina-charts-for-elementor-admin.php:504
+msgid "Connection Details Saved"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:523
+msgid "Connection Detail Not Found"
+msgstr ""
+
+#: admin/class-graphina-charts-for-elementor-admin.php:532
+msgid "Sucessfully connected"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:102
+#: elementor/charts/area/widget/area_chart.php:101
+#: elementor/charts/bubble/widget/bubble_chart.php:131
+#: elementor/charts/candle/widget/candle_chart.php:138
+#: elementor/charts/column/widget/column_chart.php:100
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:100
+#: elementor/charts/donut/widget/donut_chart.php:97
+#: elementor/charts/heatmap/widget/heatmap_chart.php:99
+#: elementor/charts/line/widget/line_chart.php:103
+#: elementor/charts/pie/widget/pie_chart.php:98
+#: elementor/charts/polar/widget/polar_chart.php:93
+#: elementor/charts/radar/widget/radar_chart.php:94
+#: elementor/charts/radial/widget/radial_chart.php:93
+#: elementor/charts/scatter/widget/scatter_chart.php:97
+#: elementor/charts/timeline/widget/timeline_chart.php:120
+#: elementor/google_charts/area/widget/area_google_chart.php:117
+#: elementor/google_charts/bar/widget/bar_google_chart.php:117
+#: elementor/google_charts/column/widget/column_google_chart.php:117
+#: elementor/google_charts/donut/widget/donut_google_chart.php:158
+#: elementor/google_charts/line/widget/line_google_chart.php:115
+#: elementor/google_charts/pie/widget/pie_google_chart.php:158
+msgid "Chart Setting"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:109
+#: utils/graphina_chart_helper.php:5047
+msgid "Height"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:119
+#: elementor/charts/data-tables/widget/data-table.php:563
+#: elementor/charts/data-tables/widget/data-table.php:659
+#: elementor/google_charts/donut/widget/donut_google_chart.php:286
+#: elementor/google_charts/pie/widget/pie_google_chart.php:285
+#: utils/graphina_chart_helper.php:3511
+#: utils/graphina_chart_helper.php:4043
+#: utils/graphina_chart_helper.php:4622
+#: utils/graphina_chart_helper.php:4673
+#: utils/graphina_chart_helper.php:4748
+#: utils/graphina_chart_helper.php:6228
+#: utils/graphina_chart_helper.php:6377
+msgid "Color"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:128
+#: utils/graphina_chart_helper.php:3675
+#: utils/graphina_chart_helper.php:4054
+#: utils/graphina_chart_helper.php:4759
+msgid "Second Color"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:137
+#: utils/graphina_chart_helper.php:1742
+#: utils/graphina_chart_helper.php:3171
+msgid "Stroke Color"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:146
+msgid "Line Space"
+msgstr ""
+
+#: elementor/charts/animated-radial/widget/animated-radial.php:155
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor/charts/area/render/area_chart.php:31
+#: elementor/charts/column/render/column_chart.php:31
+#: elementor/charts/donut/render/donut_chart.php:31
+#: elementor/charts/line/render/line_chart.php:31
+#: elementor/charts/pie/render/pie_chart.php:31
+#: elementor/charts/polar/render/polar_chart.php:31
+#: elementor/charts/scatter/render/scatter_chart.php:31
+#: utils/graphina_general_helper.php:325
+msgid "Choose Chart Type"
+msgstr ""
+
+#: elementor/charts/area/render/area_chart.php:46
+#: elementor/charts/bubble/render/bubble_chart.php:35
+#: elementor/charts/candle/render/candle_chart.php:35
+#: elementor/charts/column/render/column_chart.php:46
+#: elementor/charts/distributed_column/render/Distributed_Column_chart.php:35
+#: elementor/charts/donut/render/donut_chart.php:45
+#: elementor/charts/heatmap/render/heatmap_chart.php:35
+#: elementor/charts/line/render/line_chart.php:46
+#: elementor/charts/pie/render/pie_chart.php:45
+#: elementor/charts/polar/render/polar_chart.php:45
+#: elementor/charts/radar/render/radar_chart.php:34
+#: elementor/charts/radial/render/radial_chart.php:35
+#: elementor/charts/scatter/render/scatter_chart.php:46
+#: elementor/charts/timeline/render/timeline_chart.php:35
+msgid "No Data Found"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:108
+msgid "Area Shape"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:139
+#: elementor/charts/column/widget/column_chart.php:217
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:176
+#: elementor/charts/line/widget/line_chart.php:143
+#: elementor/charts/scatter/widget/scatter_chart.php:124
+#: elementor/google_charts/area/widget/area_google_chart.php:223
+#: elementor/google_charts/bar/widget/bar_google_chart.php:221
+#: elementor/google_charts/column/widget/column_google_chart.php:221
+#: elementor/google_charts/line/widget/line_google_chart.php:231
+msgid "Category Value"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:141
+#: elementor/charts/area/widget/area_chart.php:242
+#: elementor/charts/candle/widget/candle_chart.php:354
+#: elementor/charts/candle/widget/candle_chart.php:366
+#: elementor/charts/candle/widget/candle_chart.php:378
+#: elementor/charts/candle/widget/candle_chart.php:390
+#: elementor/charts/column/widget/column_chart.php:219
+#: elementor/charts/column/widget/column_chart.php:322
+#: elementor/charts/data-tables/widget/data-table.php:328
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:178
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:265
+#: elementor/charts/donut/widget/donut_chart.php:188
+#: elementor/charts/heatmap/widget/heatmap_chart.php:185
+#: elementor/charts/heatmap/widget/heatmap_chart.php:296
+#: elementor/charts/line/widget/line_chart.php:145
+#: elementor/charts/line/widget/line_chart.php:248
+#: elementor/charts/pie/widget/pie_chart.php:178
+#: elementor/charts/polar/widget/polar_chart.php:314
+#: elementor/charts/radar/widget/radar_chart.php:122
+#: elementor/charts/radar/widget/radar_chart.php:379
+#: elementor/charts/radial/widget/radial_chart.php:298
+#: elementor/charts/scatter/widget/scatter_chart.php:126
+#: elementor/charts/scatter/widget/scatter_chart.php:228
+#: elementor/charts/timeline/widget/timeline_chart.php:203
+#: elementor/google_charts/area/widget/area_google_chart.php:145
+#: elementor/google_charts/area/widget/area_google_chart.php:225
+#: elementor/google_charts/area/widget/area_google_chart.php:326
+#: elementor/google_charts/bar/widget/bar_google_chart.php:145
+#: elementor/google_charts/bar/widget/bar_google_chart.php:223
+#: elementor/google_charts/bar/widget/bar_google_chart.php:324
+#: elementor/google_charts/column/widget/column_google_chart.php:145
+#: elementor/google_charts/column/widget/column_google_chart.php:223
+#: elementor/google_charts/column/widget/column_google_chart.php:324
+#: elementor/google_charts/donut/widget/donut_google_chart.php:185
+#: elementor/google_charts/donut/widget/donut_google_chart.php:270
+#: elementor/google_charts/line/widget/line_google_chart.php:142
+#: elementor/google_charts/line/widget/line_google_chart.php:233
+#: elementor/google_charts/line/widget/line_google_chart.php:334
+#: elementor/google_charts/pie/widget/pie_google_chart.php:185
+#: elementor/google_charts/pie/widget/pie_google_chart.php:269
+msgid "Add Value"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:145
+#: elementor/charts/column/widget/column_chart.php:223
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:182
+#: elementor/charts/heatmap/widget/heatmap_chart.php:189
+#: elementor/charts/line/widget/line_chart.php:149
+#: elementor/charts/scatter/widget/scatter_chart.php:130
+msgid "Note: For multiline text seperate Text by comma(,) and Only work if Labels Prefix/Postfix in X-axis is disable "
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:153
+#: elementor/charts/column/widget/column_chart.php:231
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:190
+#: elementor/charts/heatmap/widget/heatmap_chart.php:198
+#: elementor/charts/line/widget/line_chart.php:157
+#: elementor/charts/radar/widget/radar_chart.php:134
+#: elementor/charts/scatter/widget/scatter_chart.php:138
+#: elementor/charts/timeline/widget/timeline_chart.php:214
+#: elementor/google_charts/area/widget/area_google_chart.php:237
+#: elementor/google_charts/bar/widget/bar_google_chart.php:235
+#: elementor/google_charts/column/widget/column_google_chart.php:235
+#: elementor/google_charts/line/widget/line_google_chart.php:245
+msgid "Categories"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:227
+#: elementor/charts/bubble/widget/bubble_chart.php:515
+#: elementor/charts/candle/widget/candle_chart.php:330
+#: elementor/charts/column/widget/column_chart.php:307
+#: elementor/charts/heatmap/widget/heatmap_chart.php:280
+#: elementor/charts/line/widget/line_chart.php:233
+#: elementor/charts/radar/widget/radar_chart.php:363
+#: elementor/charts/scatter/widget/scatter_chart.php:212
+#: elementor/charts/timeline/widget/timeline_chart.php:288
+#: elementor/google_charts/area/widget/area_google_chart.php:311
+#: elementor/google_charts/bar/widget/bar_google_chart.php:309
+#: elementor/google_charts/column/widget/column_google_chart.php:309
+#: elementor/google_charts/line/widget/line_google_chart.php:319
+msgid "Add Tile"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:253
+#: elementor/charts/area/widget/area_chart.php:274
+#: elementor/charts/line/widget/line_chart.php:259
+#: elementor/charts/line/widget/line_chart.php:280
+#: elementor/charts/scatter/widget/scatter_chart.php:239
+#: elementor/charts/scatter/widget/scatter_chart.php:260
+#: elementor/google_charts/area/widget/area_google_chart.php:337
+#: elementor/google_charts/area/widget/area_google_chart.php:358
+#: elementor/google_charts/bar/widget/bar_google_chart.php:335
+#: elementor/google_charts/bar/widget/bar_google_chart.php:356
+#: elementor/google_charts/column/widget/column_google_chart.php:335
+#: elementor/google_charts/column/widget/column_google_chart.php:356
+#: elementor/google_charts/line/widget/line_google_chart.php:345
+#: elementor/google_charts/line/widget/line_google_chart.php:366
+msgid "Values"
+msgstr ""
+
+#: elementor/charts/area/widget/area_chart.php:384
+#: elementor/charts/bubble/widget/bubble_chart.php:626
+#: elementor/charts/candle/widget/candle_chart.php:208
+#: elementor/charts/candle/widget/candle_chart.php:458
+#: elementor/charts/column/widget/column_chart.php:461
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:400
+#: elementor/charts/donut/widget/donut_chart.php:241
+#: elementor/charts/heatmap/widget/heatmap_chart.php:388
+#: elementor/charts/line/widget/line_chart.php:377
+#: elementor/charts/pie/widget/pie_chart.php:233
+#: elementor/charts/polar/widget/polar_chart.php:371
+#: elementor/charts/radar/widget/radar_chart.php:472
+#: elementor/charts/radial/widget/radial_chart.php:372
+#: elementor/charts/scatter/widget/scatter_chart.php:356
+#: elementor/charts/timeline/widget/timeline_chart.php:370
+#: utils/graphina_chart_helper.php:604
+msgid "Loading..."
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:179
+#: elementor/charts/column/widget/column_chart.php:188
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:147
+#: elementor/charts/heatmap/widget/heatmap_chart.php:147
+#: elementor/charts/radial/widget/radial_chart.php:111
+#: utils/graphina_chart_helper.php:3071
+msgid "Plot Settings"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:187
+msgid "Fill Opacity"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:222
+msgid "3D Chart"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:224
+#: elementor/charts/bubble/widget/bubble_chart.php:235
+#: elementor/charts/candle/widget/candle_chart.php:235
+#: elementor/charts/column/widget/column_chart.php:125
+#: elementor/charts/column/widget/column_chart.php:138
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:125
+#: elementor/charts/radial/widget/radial_chart.php:121
+#: elementor/charts/radial/widget/radial_chart.php:155
+#: utils/graphina_chart_helper.php:244
+#: utils/graphina_chart_helper.php:274
+#: utils/graphina_chart_helper.php:366
+#: utils/graphina_chart_helper.php:621
+#: utils/graphina_chart_helper.php:1227
+#: utils/graphina_chart_helper.php:2930
+#: utils/graphina_chart_helper.php:2980
+#: utils/graphina_chart_helper.php:3023
+#: utils/graphina_chart_helper.php:3304
+#: utils/graphina_chart_helper.php:3334
+#: utils/graphina_chart_helper.php:3400
+#: utils/graphina_chart_helper.php:3417
+#: utils/graphina_chart_helper.php:3454
+#: utils/graphina_chart_helper.php:3610
+#: utils/graphina_chart_helper.php:3655
+#: utils/graphina_chart_helper.php:3722
+#: utils/graphina_chart_helper.php:3768
+#: utils/graphina_chart_helper.php:3785
+#: utils/graphina_chart_helper.php:3849
+#: utils/graphina_chart_helper.php:4027
+#: utils/graphina_chart_helper.php:4265
+#: utils/graphina_chart_helper.php:5389
+#: utils/graphina_chart_helper.php:5412
+#: utils/graphina_chart_helper.php:5474
+#: utils/graphina_chart_helper.php:5502
+#: utils/graphina_chart_helper.php:5530
+#: utils/graphina_chart_helper.php:5596
+#: utils/graphina_chart_helper.php:5641
+#: utils/graphina_chart_helper.php:5665
+#: utils/graphina_chart_helper.php:5732
+#: utils/graphina_chart_helper.php:5745
+#: utils/graphina_chart_helper.php:5760
+#: utils/graphina_chart_helper.php:5814
+#: utils/graphina_chart_helper.php:5878
+#: utils/graphina_chart_helper.php:5931
+msgid "Yes"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:225
+#: elementor/charts/bubble/widget/bubble_chart.php:236
+#: elementor/charts/candle/widget/candle_chart.php:236
+#: elementor/charts/column/widget/column_chart.php:126
+#: elementor/charts/column/widget/column_chart.php:139
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:126
+#: elementor/charts/radial/widget/radial_chart.php:122
+#: elementor/charts/radial/widget/radial_chart.php:156
+#: utils/graphina_chart_helper.php:245
+#: utils/graphina_chart_helper.php:275
+#: utils/graphina_chart_helper.php:367
+#: utils/graphina_chart_helper.php:622
+#: utils/graphina_chart_helper.php:1228
+#: utils/graphina_chart_helper.php:2931
+#: utils/graphina_chart_helper.php:2981
+#: utils/graphina_chart_helper.php:3024
+#: utils/graphina_chart_helper.php:3335
+#: utils/graphina_chart_helper.php:3455
+#: utils/graphina_chart_helper.php:3611
+#: utils/graphina_chart_helper.php:3656
+#: utils/graphina_chart_helper.php:3723
+#: utils/graphina_chart_helper.php:3769
+#: utils/graphina_chart_helper.php:3786
+#: utils/graphina_chart_helper.php:3850
+#: utils/graphina_chart_helper.php:4028
+#: utils/graphina_chart_helper.php:4266
+#: utils/graphina_chart_helper.php:5390
+#: utils/graphina_chart_helper.php:5413
+#: utils/graphina_chart_helper.php:5475
+#: utils/graphina_chart_helper.php:5503
+#: utils/graphina_chart_helper.php:5531
+#: utils/graphina_chart_helper.php:5597
+#: utils/graphina_chart_helper.php:5642
+#: utils/graphina_chart_helper.php:5666
+#: utils/graphina_chart_helper.php:5733
+#: utils/graphina_chart_helper.php:5746
+#: utils/graphina_chart_helper.php:5761
+#: utils/graphina_chart_helper.php:5815
+#: utils/graphina_chart_helper.php:5879
+#: utils/graphina_chart_helper.php:5932
+msgid "No"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:233
+msgid "Custom Bubble Radius"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:244
+msgid "Minimum Bubble Radius"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:258
+msgid "Maximum Bubble Radius"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:278
+#: utils/graphina_chart_helper.php:1356
+#: utils/graphina_chart_helper.php:5373
+msgid "X-Axis Setting"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:315
+#: utils/graphina_chart_helper.php:1412
+#: utils/graphina_chart_helper.php:1756
+msgid "Tooltip"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:317
+#: elementor/charts/bubble/widget/bubble_chart.php:328
+#: elementor/charts/bubble/widget/bubble_chart.php:441
+#: elementor/charts/candle/widget/candle_chart.php:197
+#: elementor/charts/data-tables/widget/data-table.php:157
+#: elementor/charts/data-tables/widget/data-table.php:168
+#: elementor/charts/data-tables/widget/data-table.php:180
+#: elementor/charts/data-tables/widget/data-table.php:191
+#: elementor/charts/data-tables/widget/data-table.php:225
+#: elementor/charts/data-tables/widget/data-table.php:236
+#: elementor/charts/polar/widget/polar_chart.php:121
+#: elementor/charts/polar/widget/polar_chart.php:146
+#: elementor/charts/polar/widget/polar_chart.php:161
+#: elementor/charts/polar/widget/polar_chart.php:226
+#: elementor/charts/radar/widget/radar_chart.php:169
+#: elementor/charts/radar/widget/radar_chart.php:191
+#: elementor/charts/radar/widget/radar_chart.php:217
+#: elementor/charts/radar/widget/radar_chart.php:228
+#: elementor/charts/radar/widget/radar_chart.php:289
+#: elementor/google_charts/area/widget/area_google_chart.php:134
+#: elementor/google_charts/area/widget/area_google_chart.php:635
+#: elementor/google_charts/bar/widget/bar_google_chart.php:134
+#: elementor/google_charts/bar/widget/bar_google_chart.php:636
+#: elementor/google_charts/column/widget/column_google_chart.php:134
+#: elementor/google_charts/column/widget/column_google_chart.php:632
+#: elementor/google_charts/donut/widget/donut_google_chart.php:174
+#: elementor/google_charts/donut/widget/donut_google_chart.php:554
+#: elementor/google_charts/line/widget/line_google_chart.php:131
+#: elementor/google_charts/line/widget/line_google_chart.php:643
+#: elementor/google_charts/pie/widget/pie_google_chart.php:174
+#: elementor/google_charts/pie/widget/pie_google_chart.php:553
+#: utils/graphina_chart_helper.php:233
+#: utils/graphina_chart_helper.php:537
+#: utils/graphina_chart_helper.php:552
+#: utils/graphina_chart_helper.php:650
+#: utils/graphina_chart_helper.php:662
+#: utils/graphina_chart_helper.php:681
+#: utils/graphina_chart_helper.php:703
+#: utils/graphina_chart_helper.php:727
+#: utils/graphina_chart_helper.php:753
+#: utils/graphina_chart_helper.php:769
+#: utils/graphina_chart_helper.php:828
+#: utils/graphina_chart_helper.php:839
+#: utils/graphina_chart_helper.php:853
+#: utils/graphina_chart_helper.php:871
+#: utils/graphina_chart_helper.php:988
+#: utils/graphina_chart_helper.php:1258
+#: utils/graphina_chart_helper.php:1332
+#: utils/graphina_chart_helper.php:1366
+#: utils/graphina_chart_helper.php:1414
+#: utils/graphina_chart_helper.php:1425
+#: utils/graphina_chart_helper.php:1440
+#: utils/graphina_chart_helper.php:1574
+#: utils/graphina_chart_helper.php:1588
+#: utils/graphina_chart_helper.php:1604
+#: utils/graphina_chart_helper.php:1650
+#: utils/graphina_chart_helper.php:1696
+#: utils/graphina_chart_helper.php:1720
+#: utils/graphina_chart_helper.php:1758
+#: utils/graphina_chart_helper.php:1769
+#: utils/graphina_chart_helper.php:1784
+#: utils/graphina_chart_helper.php:1903
+#: utils/graphina_chart_helper.php:1969
+#: utils/graphina_chart_helper.php:1999
+#: utils/graphina_chart_helper.php:2015
+#: utils/graphina_chart_helper.php:2400
+#: utils/graphina_chart_helper.php:3081
+#: utils/graphina_chart_helper.php:3227
+#: utils/graphina_chart_helper.php:3486
+#: utils/graphina_chart_helper.php:4447
+#: utils/graphina_chart_helper.php:4476
+#: utils/graphina_chart_helper.php:4522
+#: utils/graphina_chart_helper.php:4834
+#: utils/graphina_chart_helper.php:5181
+#: utils/graphina_chart_helper.php:5976
+msgid "Hide"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:318
+#: elementor/charts/bubble/widget/bubble_chart.php:329
+#: elementor/charts/bubble/widget/bubble_chart.php:442
+#: elementor/charts/candle/widget/candle_chart.php:198
+#: elementor/charts/data-tables/widget/data-table.php:158
+#: elementor/charts/data-tables/widget/data-table.php:169
+#: elementor/charts/data-tables/widget/data-table.php:181
+#: elementor/charts/data-tables/widget/data-table.php:192
+#: elementor/charts/data-tables/widget/data-table.php:226
+#: elementor/charts/data-tables/widget/data-table.php:237
+#: elementor/charts/polar/widget/polar_chart.php:122
+#: elementor/charts/polar/widget/polar_chart.php:147
+#: elementor/charts/polar/widget/polar_chart.php:162
+#: elementor/charts/polar/widget/polar_chart.php:227
+#: elementor/charts/radar/widget/radar_chart.php:170
+#: elementor/charts/radar/widget/radar_chart.php:192
+#: elementor/charts/radar/widget/radar_chart.php:218
+#: elementor/charts/radar/widget/radar_chart.php:229
+#: elementor/charts/radar/widget/radar_chart.php:290
+#: elementor/google_charts/area/widget/area_google_chart.php:135
+#: elementor/google_charts/area/widget/area_google_chart.php:636
+#: elementor/google_charts/bar/widget/bar_google_chart.php:135
+#: elementor/google_charts/bar/widget/bar_google_chart.php:637
+#: elementor/google_charts/column/widget/column_google_chart.php:135
+#: elementor/google_charts/column/widget/column_google_chart.php:633
+#: elementor/google_charts/donut/widget/donut_google_chart.php:175
+#: elementor/google_charts/donut/widget/donut_google_chart.php:555
+#: elementor/google_charts/line/widget/line_google_chart.php:132
+#: elementor/google_charts/line/widget/line_google_chart.php:644
+#: elementor/google_charts/pie/widget/pie_google_chart.php:175
+#: elementor/google_charts/pie/widget/pie_google_chart.php:554
+#: utils/graphina_chart_helper.php:234
+#: utils/graphina_chart_helper.php:538
+#: utils/graphina_chart_helper.php:553
+#: utils/graphina_chart_helper.php:648
+#: utils/graphina_chart_helper.php:651
+#: utils/graphina_chart_helper.php:663
+#: utils/graphina_chart_helper.php:682
+#: utils/graphina_chart_helper.php:704
+#: utils/graphina_chart_helper.php:728
+#: utils/graphina_chart_helper.php:754
+#: utils/graphina_chart_helper.php:770
+#: utils/graphina_chart_helper.php:829
+#: utils/graphina_chart_helper.php:840
+#: utils/graphina_chart_helper.php:854
+#: utils/graphina_chart_helper.php:872
+#: utils/graphina_chart_helper.php:989
+#: utils/graphina_chart_helper.php:1259
+#: utils/graphina_chart_helper.php:1333
+#: utils/graphina_chart_helper.php:1367
+#: utils/graphina_chart_helper.php:1415
+#: utils/graphina_chart_helper.php:1426
+#: utils/graphina_chart_helper.php:1441
+#: utils/graphina_chart_helper.php:1575
+#: utils/graphina_chart_helper.php:1589
+#: utils/graphina_chart_helper.php:1605
+#: utils/graphina_chart_helper.php:1651
+#: utils/graphina_chart_helper.php:1697
+#: utils/graphina_chart_helper.php:1721
+#: utils/graphina_chart_helper.php:1759
+#: utils/graphina_chart_helper.php:1770
+#: utils/graphina_chart_helper.php:1785
+#: utils/graphina_chart_helper.php:1904
+#: utils/graphina_chart_helper.php:1970
+#: utils/graphina_chart_helper.php:2000
+#: utils/graphina_chart_helper.php:2016
+#: utils/graphina_chart_helper.php:2401
+#: utils/graphina_chart_helper.php:2928
+#: utils/graphina_chart_helper.php:3082
+#: utils/graphina_chart_helper.php:3225
+#: utils/graphina_chart_helper.php:3228
+#: utils/graphina_chart_helper.php:3487
+#: utils/graphina_chart_helper.php:3766
+#: utils/graphina_chart_helper.php:3847
+#: utils/graphina_chart_helper.php:4448
+#: utils/graphina_chart_helper.php:4477
+#: utils/graphina_chart_helper.php:4523
+#: utils/graphina_chart_helper.php:4835
+#: utils/graphina_chart_helper.php:5182
+#: utils/graphina_chart_helper.php:5929
+#: utils/graphina_chart_helper.php:5977
+msgid "Show"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:326
+#: elementor/charts/polar/widget/polar_chart.php:119
+#: elementor/charts/radar/widget/radar_chart.php:167
+#: elementor/charts/radar/widget/radar_chart.php:189
+#: utils/graphina_chart_helper.php:1438
+#: utils/graphina_chart_helper.php:1782
+msgid "Labels"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:337
+#: elementor/google_charts/area/widget/area_google_chart.php:156
+#: elementor/google_charts/bar/widget/bar_google_chart.php:156
+#: elementor/google_charts/column/widget/column_google_chart.php:156
+#: elementor/google_charts/line/widget/line_google_chart.php:153
+#: utils/graphina_chart_helper.php:944
+#: utils/graphina_chart_helper.php:1267
+#: utils/graphina_chart_helper.php:1449
+#: utils/graphina_chart_helper.php:1793
+msgid "Position"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:359
+#: utils/graphina_chart_helper.php:1471
+msgid "Labels Auto Rotate"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:361
+#: utils/graphina_chart_helper.php:384
+#: utils/graphina_chart_helper.php:1473
+#: utils/graphina_chart_helper.php:1527
+msgid "False"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:362
+#: utils/graphina_chart_helper.php:383
+#: utils/graphina_chart_helper.php:1474
+#: utils/graphina_chart_helper.php:1528
+msgid "True"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:373
+#: utils/graphina_chart_helper.php:1485
+#: utils/graphina_chart_helper.php:1830
+msgid "Rotate"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:387
+#: utils/graphina_chart_helper.php:573
+#: utils/graphina_chart_helper.php:811
+#: utils/graphina_chart_helper.php:1500
+#: utils/graphina_chart_helper.php:1806
+msgid "Offset-X"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:399
+#: utils/graphina_chart_helper.php:561
+#: utils/graphina_chart_helper.php:799
+#: utils/graphina_chart_helper.php:1512
+#: utils/graphina_chart_helper.php:1818
+msgid "Offset-Y"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:411
+#: elementor/charts/polar/widget/polar_chart.php:130
+#: utils/graphina_chart_helper.php:1541
+#: utils/graphina_chart_helper.php:4459
+msgid "Tick Amount"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:425
+#: utils/graphina_chart_helper.php:1556
+msgid "Tick Placement"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:439
+#: utils/graphina_chart_helper.php:1648
+#: utils/graphina_chart_helper.php:2013
+msgid "Enable Title"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:450
+#: utils/graphina_chart_helper.php:1659
+msgid "Xaxis Title"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:513
+#: elementor/charts/column/widget/column_chart.php:305
+msgid "Element Title"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:530
+msgid "Add X Value"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:542
+msgid "Add Y Value"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:554
+msgid "Add Z Value"
+msgstr ""
+
+#: elementor/charts/bubble/widget/bubble_chart.php:569
+#: elementor/charts/candle/widget/candle_chart.php:401
+#: elementor/charts/column/widget/column_chart.php:333
+#: elementor/charts/column/widget/column_chart.php:358
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:276
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:301
+#: elementor/charts/heatmap/widget/heatmap_chart.php:307
+#: elementor/charts/radar/widget/radar_chart.php:390
+msgid "Chart value list"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:175
+#: utils/graphina_chart_helper.php:509
+msgid "Chart Background Color"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:184
+#: utils/graphina_chart_helper.php:520
+msgid "Height (px)"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:195
+#: utils/graphina_chart_helper.php:550
+msgid "Toolbar"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:206
+#: utils/graphina_chart_helper.php:602
+msgid "No Data Text"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:225
+#: utils/graphina_chart_helper.php:1104
+msgid "Fill Settings"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:233
+msgid "Color Show"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:244
+#: utils/graphina_chart_helper.php:1128
+#: utils/graphina_chart_helper.php:3708
+#: utils/graphina_chart_helper.php:4631
+#: utils/graphina_chart_helper.php:4682
+msgid "Opacity"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:256
+msgid "Upward Color"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:265
+msgid "Downward Color"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:328
+#: elementor/google_charts/area/widget/area_google_chart.php:393
+#: elementor/google_charts/bar/widget/bar_google_chart.php:392
+#: elementor/google_charts/column/widget/column_google_chart.php:391
+#: elementor/google_charts/donut/widget/donut_google_chart.php:313
+#: elementor/google_charts/line/widget/line_google_chart.php:401
+#: elementor/google_charts/pie/widget/pie_google_chart.php:312
+#: utils/graphina_chart_helper.php:2075
+#: utils/graphina_chart_helper.php:5538
+#: utils/graphina_chart_helper.php:5822
+msgid "Title"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:343
+msgid "Chart Date ( X ) Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:345
+#: elementor/charts/timeline/widget/timeline_chart.php:303
+#: elementor/charts/timeline/widget/timeline_chart.php:312
+msgid "Select Date"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:352
+msgid "Open Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:364
+msgid "High Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:376
+msgid "Low Value"
+msgstr ""
+
+#: elementor/charts/candle/widget/candle_chart.php:388
+msgid "Close Value"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:111
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:111
+#: utils/graphina_chart_helper.php:3599
+msgid "Column Width"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:123
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:123
+#: utils/graphina_chart_helper.php:1186
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:136
+msgid "Stacked Columns"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:147
+#: utils/graphina_chart_helper.php:3618
+msgid "Stack Type"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:151
+msgid "Normal"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:152
+#: utils/graphina_chart_helper.php:3319
+#: utils/graphina_chart_helper.php:3569
+msgid "Percentage"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:163
+#: utils/graphina_chart_helper.php:5773
+msgid "Decimal"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:196
+#: elementor/charts/data-tables/widget/data-table.php:479
+#: elementor/charts/data-tables/widget/data-table.php:598
+#: elementor/charts/data-tables/widget/data-table.php:712
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:155
+#: elementor/google_charts/area/widget/area_google_chart.php:608
+#: elementor/google_charts/area/widget/area_google_chart.php:677
+#: elementor/google_charts/bar/widget/bar_google_chart.php:607
+#: elementor/google_charts/bar/widget/bar_google_chart.php:678
+#: elementor/google_charts/column/widget/column_google_chart.php:605
+#: elementor/google_charts/column/widget/column_google_chart.php:674
+#: elementor/google_charts/donut/widget/donut_google_chart.php:527
+#: elementor/google_charts/donut/widget/donut_google_chart.php:596
+#: elementor/google_charts/line/widget/line_google_chart.php:616
+#: elementor/google_charts/line/widget/line_google_chart.php:685
+#: elementor/google_charts/pie/widget/pie_google_chart.php:526
+#: elementor/google_charts/pie/widget/pie_google_chart.php:595
+#: utils/graphina_chart_helper.php:2297
+#: utils/graphina_chart_helper.php:2442
+#: utils/graphina_chart_helper.php:2677
+#: utils/graphina_chart_helper.php:2784
+#: utils/graphina_chart_helper.php:2891
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/charts/column/widget/column_chart.php:320
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:263
+msgid "Chart Value"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:148
+msgid "Table Settings"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:155
+msgid "Footer Enable"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:166
+msgid "Search Enabled"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:178
+msgid "Pagination Enabled"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:189
+msgid "Pagination Info"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:223
+msgid "Sorting Enabled"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:234
+msgid "Scrolling Enabled"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:259
+msgid "Button Menu"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:264
+msgid "pageLength"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:265
+msgid "Column Visibilty"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:266
+msgid "Copy"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:267
+msgid "Excel"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:268
+msgid "PDF"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:269
+msgid "Print"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:270
+msgid "excelFlash"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:281
+msgid "Table Columns"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:294
+msgid "Add Title"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:326
+msgid "Row Value"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:338
+msgid "Row Data"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:363
+msgid "Table Style"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:371
+msgid "Header Row Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:382
+msgid "Header Row Text Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:393
+msgid "Even Row Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:404
+msgid "Even Row Text Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:415
+msgid "Odd Row Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:426
+msgid "Odd Row Text Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:437
+msgid "Footer Row Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:448
+msgid "Footer Row Text Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:461
+#: elementor/google_charts/area/widget/area_google_chart.php:403
+#: elementor/google_charts/area/widget/area_google_chart.php:488
+#: elementor/google_charts/bar/widget/bar_google_chart.php:402
+#: elementor/google_charts/bar/widget/bar_google_chart.php:487
+#: elementor/google_charts/column/widget/column_google_chart.php:401
+#: elementor/google_charts/column/widget/column_google_chart.php:486
+#: elementor/google_charts/donut/widget/donut_google_chart.php:323
+#: elementor/google_charts/donut/widget/donut_google_chart.php:408
+#: elementor/google_charts/line/widget/line_google_chart.php:411
+#: elementor/google_charts/line/widget/line_google_chart.php:496
+#: elementor/google_charts/pie/widget/pie_google_chart.php:322
+#: elementor/google_charts/pie/widget/pie_google_chart.php:407
+#: utils/graphina_chart_helper.php:2085
+#: utils/graphina_chart_helper.php:2170
+#: utils/graphina_chart_helper.php:6139
+msgid "Typography"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:471
+#: elementor/charts/data-tables/widget/data-table.php:529
+#: elementor/charts/data-tables/widget/data-table.php:645
+#: elementor/google_charts/area/widget/area_google_chart.php:599
+#: elementor/google_charts/area/widget/area_google_chart.php:668
+#: elementor/google_charts/bar/widget/bar_google_chart.php:598
+#: elementor/google_charts/bar/widget/bar_google_chart.php:669
+#: elementor/google_charts/column/widget/column_google_chart.php:596
+#: elementor/google_charts/column/widget/column_google_chart.php:665
+#: elementor/google_charts/donut/widget/donut_google_chart.php:518
+#: elementor/google_charts/donut/widget/donut_google_chart.php:587
+#: elementor/google_charts/line/widget/line_google_chart.php:607
+#: elementor/google_charts/line/widget/line_google_chart.php:676
+#: elementor/google_charts/pie/widget/pie_google_chart.php:517
+#: elementor/google_charts/pie/widget/pie_google_chart.php:586
+#: utils/graphina_chart_helper.php:2288
+#: utils/graphina_chart_helper.php:2433
+#: utils/graphina_chart_helper.php:2669
+#: utils/graphina_chart_helper.php:2776
+#: utils/graphina_chart_helper.php:2883
+msgid "Border"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:491
+#: elementor/charts/data-tables/widget/data-table.php:610
+#: elementor/charts/data-tables/widget/data-table.php:730
+#: elementor/google_charts/area/widget/area_google_chart.php:448
+#: elementor/google_charts/area/widget/area_google_chart.php:533
+#: elementor/google_charts/bar/widget/bar_google_chart.php:447
+#: elementor/google_charts/bar/widget/bar_google_chart.php:532
+#: elementor/google_charts/column/widget/column_google_chart.php:446
+#: elementor/google_charts/column/widget/column_google_chart.php:531
+#: elementor/google_charts/donut/widget/donut_google_chart.php:368
+#: elementor/google_charts/donut/widget/donut_google_chart.php:453
+#: elementor/google_charts/line/widget/line_google_chart.php:456
+#: elementor/google_charts/line/widget/line_google_chart.php:541
+#: elementor/google_charts/pie/widget/pie_google_chart.php:367
+#: elementor/google_charts/pie/widget/pie_google_chart.php:452
+#: utils/graphina_chart_helper.php:2130
+#: utils/graphina_chart_helper.php:2215
+#: utils/graphina_chart_helper.php:2558
+#: utils/graphina_chart_helper.php:2644
+#: utils/graphina_chart_helper.php:2751
+#: utils/graphina_chart_helper.php:2858
+#: utils/graphina_chart_helper.php:5129
+msgid "Margin"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:503
+#: elementor/charts/data-tables/widget/data-table.php:622
+#: elementor/charts/data-tables/widget/data-table.php:748
+#: elementor/google_charts/area/widget/area_google_chart.php:463
+#: elementor/google_charts/area/widget/area_google_chart.php:548
+#: elementor/google_charts/bar/widget/bar_google_chart.php:462
+#: elementor/google_charts/bar/widget/bar_google_chart.php:547
+#: elementor/google_charts/column/widget/column_google_chart.php:461
+#: elementor/google_charts/column/widget/column_google_chart.php:546
+#: elementor/google_charts/donut/widget/donut_google_chart.php:383
+#: elementor/google_charts/donut/widget/donut_google_chart.php:468
+#: elementor/google_charts/line/widget/line_google_chart.php:471
+#: elementor/google_charts/line/widget/line_google_chart.php:556
+#: elementor/google_charts/pie/widget/pie_google_chart.php:382
+#: elementor/google_charts/pie/widget/pie_google_chart.php:467
+#: utils/graphina_chart_helper.php:2145
+#: utils/graphina_chart_helper.php:2230
+#: utils/graphina_chart_helper.php:2570
+#: utils/graphina_chart_helper.php:2656
+#: utils/graphina_chart_helper.php:2763
+#: utils/graphina_chart_helper.php:2870
+#: utils/graphina_chart_helper.php:5141
+msgid "Padding"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:517
+msgid "Search Style"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:537
+#: utils/graphina_chart_helper.php:3987
+#: utils/graphina_chart_helper.php:4651
+#: utils/graphina_chart_helper.php:5082
+msgid "Width"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:550
+msgid "height"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:574
+#: elementor/charts/data-tables/widget/data-table.php:676
+#: utils/graphina_chart_helper.php:2339
+#: utils/graphina_chart_helper.php:2530
+#: utils/graphina_chart_helper.php:2616
+#: utils/graphina_chart_helper.php:2723
+#: utils/graphina_chart_helper.php:2830
+#: utils/graphina_chart_helper.php:3525
+msgid "Font Size"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:587
+#: elementor/charts/data-tables/widget/data-table.php:695
+#: elementor/google_charts/area/widget/area_google_chart.php:439
+#: elementor/google_charts/area/widget/area_google_chart.php:524
+#: elementor/google_charts/bar/widget/bar_google_chart.php:438
+#: elementor/google_charts/bar/widget/bar_google_chart.php:523
+#: elementor/google_charts/column/widget/column_google_chart.php:437
+#: elementor/google_charts/column/widget/column_google_chart.php:522
+#: elementor/google_charts/donut/widget/donut_google_chart.php:359
+#: elementor/google_charts/donut/widget/donut_google_chart.php:444
+#: elementor/google_charts/line/widget/line_google_chart.php:447
+#: elementor/google_charts/line/widget/line_google_chart.php:532
+#: elementor/google_charts/pie/widget/pie_google_chart.php:358
+#: elementor/google_charts/pie/widget/pie_google_chart.php:443
+#: utils/graphina_chart_helper.php:972
+#: utils/graphina_chart_helper.php:1009
+#: utils/graphina_chart_helper.php:2038
+#: utils/graphina_chart_helper.php:2121
+#: utils/graphina_chart_helper.php:2206
+#: utils/graphina_chart_helper.php:2389
+#: utils/graphina_chart_helper.php:2521
+#: utils/graphina_chart_helper.php:2607
+#: utils/graphina_chart_helper.php:2714
+#: utils/graphina_chart_helper.php:2821
+#: utils/graphina_chart_helper.php:3664
+#: utils/graphina_chart_helper.php:4552
+#: utils/graphina_chart_helper.php:5024
+msgid "Font Color"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:636
+msgid "Button Style"
+msgstr ""
+
+#: elementor/charts/data-tables/widget/data-table.php:877
+msgid "The Data is Not Available"
+msgstr ""
+
+#: elementor/charts/distributed_column/widget/Distributed_Column_chart.php:222
+msgid "Element 1"
+msgstr ""
+
+#: elementor/charts/donut/widget/donut_chart.php:175
+#: elementor/charts/pie/widget/pie_chart.php:165
+#: elementor/charts/polar/widget/polar_chart.php:301
+#: elementor/charts/radial/widget/radial_chart.php:285
+#: elementor/google_charts/donut/widget/donut_google_chart.php:254
+#: elementor/google_charts/pie/widget/pie_google_chart.php:253
+msgid "Add Label"
+msgstr ""
+
+#: elementor/charts/heatmap/widget/heatmap_chart.php:155
+msgid "Matrix Radius"
+msgstr ""
+
+#: elementor/charts/line/widget/line_chart.php:111
+#: elementor/google_charts/line/widget/line_google_chart.php:199
+msgid "Line Shape"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:110
+#: elementor/charts/radar/widget/radar_chart.php:180
+msgid "Advance Y-Axis Setting"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:144
+#: elementor/charts/radar/widget/radar_chart.php:215
+msgid "Format"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:159
+#: elementor/charts/radar/widget/radar_chart.php:226
+#: utils/graphina_chart_helper.php:751
+msgid "Format Number(Commas)"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:174
+#: elementor/charts/radar/widget/radar_chart.php:240
+#: utils/graphina_chart_helper.php:896
+#: utils/graphina_chart_helper.php:1063
+msgid "Label Prefix"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:189
+#: elementor/charts/radar/widget/radar_chart.php:254
+#: utils/graphina_chart_helper.php:910
+#: utils/graphina_chart_helper.php:1075
+msgid "Label Postfix"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:204
+#: elementor/charts/radar/widget/radar_chart.php:268
+#: utils/graphina_chart_helper.php:1887
+#: utils/graphina_chart_helper.php:1946
+msgid "Decimals In Float"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:220
+#: elementor/charts/radar/widget/radar_chart.php:284
+#: utils/graphina_chart_helper.php:767
+#: utils/graphina_chart_helper.php:865
+#: utils/graphina_chart_helper.php:1963
+msgid "Format Number to String"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:229
+#: elementor/charts/radar/widget/radar_chart.php:292
+msgid "Note: Convert 1,000  => 1k and 1,000,000 => 1m"
+msgstr ""
+
+#: elementor/charts/polar/widget/polar_chart.php:236
+#: elementor/charts/radar/widget/radar_chart.php:299
+#: utils/graphina_chart_helper.php:782
+#: utils/graphina_chart_helper.php:881
+#: utils/graphina_chart_helper.php:1979
+msgid "Number of Decimal Want"
+msgstr ""
+
+#: elementor/charts/radar/widget/radar_chart.php:126
+#: elementor/google_charts/area/widget/area_google_chart.php:229
+#: elementor/google_charts/bar/widget/bar_google_chart.php:227
+#: elementor/google_charts/column/widget/column_google_chart.php:227
+#: elementor/google_charts/line/widget/line_google_chart.php:237
+msgid "Note: For multiline text seperate Text by comma(,) "
+msgstr ""
+
+#: elementor/charts/radar/widget/radar_chart.php:159
+msgid "Advance X-Axis Setting"
+msgstr ""
+
+#: elementor/charts/radar/widget/radar_chart.php:200
+msgid " Tick Amount"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:119
+msgid "Linecap Stroke Rounded"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:130
+msgid "Line width (%)"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:153
+msgid "Chart Track Background Color"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:188
+msgid "Radial Shape"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:192
+#: utils/graphina_chart_helper.php:3196
+#: utils/graphina_chart_helper.php:3241
+msgid "Circle"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:193
+msgid "Semi Circle"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:194
+#: utils/graphina_chart_helper.php:3021
+msgid "Custom"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:202
+msgid "Start Angle"
+msgstr ""
+
+#: elementor/charts/radial/widget/radial_chart.php:217
+msgid "End Angle"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:170
+#: utils/graphina_chart_helper.php:2920
+msgid "Stroke Settings"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:301
+msgid "From Date ( Y )"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:310
+msgid "To Date ( Y )"
+msgstr ""
+
+#: elementor/charts/timeline/widget/timeline_chart.php:320
+msgid "Chart Value list"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:166
+msgid "Graphina Apex Chart"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:176
+msgid "Graphina Google Chart"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:273
+msgid "requires"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:273
+msgid "plugin to be active. Please activate Elementor for Graphina - Elementor Charts and Graphs to continue."
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:274
+msgid "Activate Elementor "
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:288
+msgid "Not working because you need to install the"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:288
+msgid "Elementor"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:288
+msgid "plugin"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:289
+msgid "Install Elementor "
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:316
+msgid "Nested Column"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:322
+msgid "Mixed"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:328
+msgid "Counter"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:334
+msgid "Advance DataTable"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:340
+msgid "Brush Charts"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:346
+msgid "Gauge"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:352
+msgid "Geo"
+msgstr ""
+
+#: elementor/class-graphina-charts-for-elementor-public.php:358
+msgid "Org"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:124
+#: elementor/google_charts/bar/widget/bar_google_chart.php:124
+#: elementor/google_charts/column/widget/column_google_chart.php:124
+#: elementor/google_charts/donut/widget/donut_google_chart.php:164
+#: elementor/google_charts/line/widget/line_google_chart.php:121
+#: elementor/google_charts/pie/widget/pie_google_chart.php:164
+msgid "Chart Title Settings"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:132
+#: elementor/google_charts/bar/widget/bar_google_chart.php:132
+#: elementor/google_charts/column/widget/column_google_chart.php:132
+#: elementor/google_charts/donut/widget/donut_google_chart.php:172
+#: elementor/google_charts/line/widget/line_google_chart.php:129
+#: elementor/google_charts/pie/widget/pie_google_chart.php:172
+msgid "Chart Title Show"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:143
+#: elementor/google_charts/area/widget/area_google_chart.php:146
+#: elementor/google_charts/bar/widget/bar_google_chart.php:143
+#: elementor/google_charts/bar/widget/bar_google_chart.php:146
+#: elementor/google_charts/column/widget/column_google_chart.php:143
+#: elementor/google_charts/column/widget/column_google_chart.php:146
+#: elementor/google_charts/donut/widget/donut_google_chart.php:183
+#: elementor/google_charts/donut/widget/donut_google_chart.php:186
+#: elementor/google_charts/line/widget/line_google_chart.php:140
+#: elementor/google_charts/line/widget/line_google_chart.php:143
+#: elementor/google_charts/pie/widget/pie_google_chart.php:183
+#: elementor/google_charts/pie/widget/pie_google_chart.php:186
+msgid "Chart Title"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:159
+#: elementor/google_charts/bar/widget/bar_google_chart.php:159
+#: elementor/google_charts/column/widget/column_google_chart.php:159
+#: elementor/google_charts/line/widget/line_google_chart.php:156
+#: utils/graphina_chart_helper.php:82
+#: utils/graphina_chart_helper.php:3004
+msgid "In"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:160
+#: elementor/google_charts/bar/widget/bar_google_chart.php:160
+#: elementor/google_charts/column/widget/column_google_chart.php:160
+#: elementor/google_charts/line/widget/line_google_chart.php:157
+#: utils/graphina_chart_helper.php:83
+#: utils/graphina_chart_helper.php:3005
+msgid "Out"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:172
+#: elementor/google_charts/bar/widget/bar_google_chart.php:172
+#: elementor/google_charts/column/widget/column_google_chart.php:172
+#: elementor/google_charts/donut/widget/donut_google_chart.php:196
+#: elementor/google_charts/line/widget/line_google_chart.php:169
+#: elementor/google_charts/pie/widget/pie_google_chart.php:196
+msgid "Title Font Color"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:184
+#: elementor/google_charts/bar/widget/bar_google_chart.php:184
+#: elementor/google_charts/column/widget/column_google_chart.php:184
+#: elementor/google_charts/donut/widget/donut_google_chart.php:208
+#: elementor/google_charts/line/widget/line_google_chart.php:181
+#: elementor/google_charts/pie/widget/pie_google_chart.php:208
+msgid "Title Font Size"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:383
+#: elementor/google_charts/bar/widget/bar_google_chart.php:382
+#: elementor/google_charts/column/widget/column_google_chart.php:381
+#: elementor/google_charts/donut/widget/donut_google_chart.php:303
+#: elementor/google_charts/line/widget/line_google_chart.php:391
+#: elementor/google_charts/pie/widget/pie_google_chart.php:302
+#: utils/graphina_chart_helper.php:2064
+msgid "Style Section"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:413
+#: elementor/google_charts/area/widget/area_google_chart.php:498
+#: elementor/google_charts/bar/widget/bar_google_chart.php:412
+#: elementor/google_charts/bar/widget/bar_google_chart.php:497
+#: elementor/google_charts/column/widget/column_google_chart.php:411
+#: elementor/google_charts/column/widget/column_google_chart.php:496
+#: elementor/google_charts/donut/widget/donut_google_chart.php:333
+#: elementor/google_charts/donut/widget/donut_google_chart.php:418
+#: elementor/google_charts/line/widget/line_google_chart.php:421
+#: elementor/google_charts/line/widget/line_google_chart.php:506
+#: elementor/google_charts/pie/widget/pie_google_chart.php:332
+#: elementor/google_charts/pie/widget/pie_google_chart.php:417
+#: utils/graphina_chart_helper.php:2095
+#: utils/graphina_chart_helper.php:2180
+#: utils/graphina_chart_helper.php:2481
+#: utils/graphina_chart_helper.php:4998
+msgid "Alignment"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:418
+#: elementor/google_charts/area/widget/area_google_chart.php:503
+#: elementor/google_charts/bar/widget/bar_google_chart.php:417
+#: elementor/google_charts/bar/widget/bar_google_chart.php:502
+#: elementor/google_charts/column/widget/column_google_chart.php:416
+#: elementor/google_charts/column/widget/column_google_chart.php:501
+#: elementor/google_charts/donut/widget/donut_google_chart.php:338
+#: elementor/google_charts/donut/widget/donut_google_chart.php:423
+#: elementor/google_charts/line/widget/line_google_chart.php:426
+#: elementor/google_charts/line/widget/line_google_chart.php:511
+#: elementor/google_charts/pie/widget/pie_google_chart.php:337
+#: elementor/google_charts/pie/widget/pie_google_chart.php:422
+#: utils/graphina_chart_helper.php:64
+#: utils/graphina_chart_helper.php:90
+#: utils/graphina_chart_helper.php:99
+#: utils/graphina_chart_helper.php:1284
+#: utils/graphina_chart_helper.php:1302
+#: utils/graphina_chart_helper.php:2100
+#: utils/graphina_chart_helper.php:2185
+#: utils/graphina_chart_helper.php:2485
+#: utils/graphina_chart_helper.php:5003
+msgid "Left"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:422
+#: elementor/google_charts/area/widget/area_google_chart.php:507
+#: elementor/google_charts/bar/widget/bar_google_chart.php:421
+#: elementor/google_charts/bar/widget/bar_google_chart.php:506
+#: elementor/google_charts/column/widget/column_google_chart.php:420
+#: elementor/google_charts/column/widget/column_google_chart.php:505
+#: elementor/google_charts/donut/widget/donut_google_chart.php:342
+#: elementor/google_charts/donut/widget/donut_google_chart.php:427
+#: elementor/google_charts/line/widget/line_google_chart.php:430
+#: elementor/google_charts/line/widget/line_google_chart.php:515
+#: elementor/google_charts/pie/widget/pie_google_chart.php:341
+#: elementor/google_charts/pie/widget/pie_google_chart.php:426
+#: utils/graphina_chart_helper.php:57
+#: utils/graphina_chart_helper.php:1306
+#: utils/graphina_chart_helper.php:2104
+#: utils/graphina_chart_helper.php:2189
+#: utils/graphina_chart_helper.php:2489
+#: utils/graphina_chart_helper.php:5007
+#: utils/graphina_chart_helper.php:6038
+msgid "Center"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:426
+#: elementor/google_charts/area/widget/area_google_chart.php:511
+#: elementor/google_charts/bar/widget/bar_google_chart.php:425
+#: elementor/google_charts/bar/widget/bar_google_chart.php:510
+#: elementor/google_charts/column/widget/column_google_chart.php:424
+#: elementor/google_charts/column/widget/column_google_chart.php:509
+#: elementor/google_charts/donut/widget/donut_google_chart.php:346
+#: elementor/google_charts/donut/widget/donut_google_chart.php:431
+#: elementor/google_charts/line/widget/line_google_chart.php:434
+#: elementor/google_charts/line/widget/line_google_chart.php:519
+#: elementor/google_charts/pie/widget/pie_google_chart.php:345
+#: elementor/google_charts/pie/widget/pie_google_chart.php:430
+#: utils/graphina_chart_helper.php:68
+#: utils/graphina_chart_helper.php:91
+#: utils/graphina_chart_helper.php:100
+#: utils/graphina_chart_helper.php:1276
+#: utils/graphina_chart_helper.php:1310
+#: utils/graphina_chart_helper.php:2108
+#: utils/graphina_chart_helper.php:2193
+#: utils/graphina_chart_helper.php:2493
+#: utils/graphina_chart_helper.php:5011
+msgid "Right"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:478
+#: elementor/google_charts/bar/widget/bar_google_chart.php:477
+#: elementor/google_charts/column/widget/column_google_chart.php:476
+#: elementor/google_charts/donut/widget/donut_google_chart.php:398
+#: elementor/google_charts/line/widget/line_google_chart.php:486
+#: elementor/google_charts/pie/widget/pie_google_chart.php:397
+#: utils/graphina_chart_helper.php:272
+#: utils/graphina_chart_helper.php:2160
+msgid "Description"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:565
+#: elementor/google_charts/bar/widget/bar_google_chart.php:564
+#: elementor/google_charts/column/widget/column_google_chart.php:562
+#: elementor/google_charts/donut/widget/donut_google_chart.php:484
+#: elementor/google_charts/line/widget/line_google_chart.php:573
+#: elementor/google_charts/pie/widget/pie_google_chart.php:483
+#: utils/graphina_chart_helper.php:2253
+msgid "Card Style"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:576
+#: elementor/google_charts/area/widget/area_google_chart.php:645
+#: elementor/google_charts/bar/widget/bar_google_chart.php:575
+#: elementor/google_charts/bar/widget/bar_google_chart.php:646
+#: elementor/google_charts/column/widget/column_google_chart.php:573
+#: elementor/google_charts/column/widget/column_google_chart.php:642
+#: elementor/google_charts/donut/widget/donut_google_chart.php:495
+#: elementor/google_charts/donut/widget/donut_google_chart.php:564
+#: elementor/google_charts/line/widget/line_google_chart.php:584
+#: elementor/google_charts/line/widget/line_google_chart.php:653
+#: elementor/google_charts/pie/widget/pie_google_chart.php:494
+#: elementor/google_charts/pie/widget/pie_google_chart.php:563
+#: utils/graphina_chart_helper.php:2265
+#: utils/graphina_chart_helper.php:2410
+msgid "Background"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:589
+#: elementor/google_charts/area/widget/area_google_chart.php:658
+#: elementor/google_charts/bar/widget/bar_google_chart.php:588
+#: elementor/google_charts/bar/widget/bar_google_chart.php:659
+#: elementor/google_charts/column/widget/column_google_chart.php:586
+#: elementor/google_charts/column/widget/column_google_chart.php:655
+#: elementor/google_charts/donut/widget/donut_google_chart.php:508
+#: elementor/google_charts/donut/widget/donut_google_chart.php:577
+#: elementor/google_charts/line/widget/line_google_chart.php:597
+#: elementor/google_charts/line/widget/line_google_chart.php:666
+#: elementor/google_charts/pie/widget/pie_google_chart.php:507
+#: elementor/google_charts/pie/widget/pie_google_chart.php:576
+#: utils/graphina_chart_helper.php:2278
+#: utils/graphina_chart_helper.php:2423
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:625
+#: elementor/google_charts/bar/widget/bar_google_chart.php:624
+#: elementor/google_charts/column/widget/column_google_chart.php:622
+#: elementor/google_charts/donut/widget/donut_google_chart.php:544
+#: elementor/google_charts/line/widget/line_google_chart.php:633
+#: elementor/google_charts/pie/widget/pie_google_chart.php:543
+#: utils/graphina_chart_helper.php:2321
+msgid "Chart Style"
+msgstr ""
+
+#: elementor/google_charts/area/widget/area_google_chart.php:633
+#: elementor/google_charts/bar/widget/bar_google_chart.php:634
+#: elementor/google_charts/column/widget/column_google_chart.php:630
+#: elementor/google_charts/donut/widget/donut_google_chart.php:552
+#: elementor/google_charts/line/widget/line_google_chart.php:641
+#: elementor/google_charts/pie/widget/pie_google_chart.php:551
+#: utils/graphina_chart_helper.php:2398
+msgid "Chart Box"
+msgstr ""
+
+#: elementor/google_charts/bar/widget/bar_google_chart.php:692
+#: elementor/google_charts/column/widget/column_google_chart.php:688
+msgid "X-Axis Label Setting"
+msgstr ""
+
+#: elementor/google_charts/bar/widget/bar_google_chart.php:699
+#: elementor/google_charts/bar/widget/bar_google_chart.php:731
+#: elementor/google_charts/column/widget/column_google_chart.php:695
+#: elementor/google_charts/column/widget/column_google_chart.php:727
+#: utils/graphina_chart_helper.php:5448
+#: utils/graphina_chart_helper.php:5702
+msgid "Label Color"
+msgstr ""
+
+#: elementor/google_charts/bar/widget/bar_google_chart.php:707
+#: elementor/google_charts/bar/widget/bar_google_chart.php:739
+#: elementor/google_charts/column/widget/column_google_chart.php:703
+#: elementor/google_charts/column/widget/column_google_chart.php:735
+#: utils/graphina_chart_helper.php:5459
+#: utils/graphina_chart_helper.php:5713
+msgid " Label Fontsize"
+msgstr ""
+
+#: elementor/google_charts/bar/widget/bar_google_chart.php:724
+#: elementor/google_charts/column/widget/column_google_chart.php:720
+msgid "Y-Axis Label Setting"
+msgstr ""
+
+#: elementor/google_charts/donut/widget/donut_google_chart.php:126
+#: elementor/google_charts/pie/widget/pie_google_chart.php:126
+msgid "Data Table Options"
+msgstr ""
+
+#: elementor/google_charts/donut/widget/donut_google_chart.php:136
+#: elementor/google_charts/pie/widget/pie_google_chart.php:136
+msgid "Label Title"
+msgstr ""
+
+#: elementor/google_charts/donut/widget/donut_google_chart.php:138
+#: elementor/google_charts/pie/widget/pie_google_chart.php:138
+msgid "Month"
+msgstr ""
+
+#: elementor/google_charts/donut/widget/donut_google_chart.php:139
+#: elementor/google_charts/donut/widget/donut_google_chart.php:149
+#: elementor/google_charts/pie/widget/pie_google_chart.php:139
+#: elementor/google_charts/pie/widget/pie_google_chart.php:149
+msgid "Data Values Title in DataTable"
+msgstr ""
+
+#: elementor/google_charts/donut/widget/donut_google_chart.php:146
+#: elementor/google_charts/pie/widget/pie_google_chart.php:146
+msgid "Value Title"
+msgstr ""
+
+#: elementor/google_charts/donut/widget/donut_google_chart.php:148
+#: elementor/google_charts/pie/widget/pie_google_chart.php:148
+msgid "Sales"
+msgstr ""
+
+#: elementor/google_charts/line/widget/line_google_chart.php:203
+msgid "none"
+msgstr ""
+
+#: elementor/google_charts/line/widget/line_google_chart.php:204
+msgid "function"
+msgstr ""
+
+#: graphina-charts-for-elementor.php:105
+msgid "Docs"
+msgstr ""
+
+#: graphina-charts-for-elementor.php:107
+#: utils/graphina_chart_helper.php:483
+msgid "Get Pro"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:37
+msgid "Smooth"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:38
+msgid "Straight"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:39
+msgid "Stepline"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:56
+#: utils/graphina_chart_helper.php:88
+#: utils/graphina_chart_helper.php:97
+#: utils/graphina_chart_helper.php:1272
+#: utils/graphina_chart_helper.php:1454
+msgid "Top"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:58
+#: utils/graphina_chart_helper.php:89
+#: utils/graphina_chart_helper.php:98
+#: utils/graphina_chart_helper.php:1280
+#: utils/graphina_chart_helper.php:1458
+msgid "Bottom"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:76
+msgid "On"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:77
+msgid "Between"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:92
+msgid "Inside"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:101
+msgid "Labeled"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:119
+msgid "VerticalLines"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:120
+msgid "Squares"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:121
+msgid "HorizontalLines"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:122
+msgid "Circles"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:123
+msgid "SlantedLines"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:144
+msgid "Manual"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:145
+msgid "Dynamic"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:149
+msgid "Firebase"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:154
+msgid "Forminator Addon"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:160
+msgid "CSV"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:161
+msgid "Remote CSV"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:162
+msgid "Google Sheet"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:163
+msgid "API"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:167
+msgid "SQL Builder"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:170
+msgid "Data From Filter"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:191
+msgid "Classic"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:197
+msgid "Gradient"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:203
+msgid "Pattern"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:224
+msgid "Basic Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:231
+msgid "Card"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:242
+msgid "Heading"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:256
+msgid "Card Heading"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:313
+msgid "Chart Data Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:320
+#: utils/graphina_chart_helper.php:4880
+msgid "Is Pro"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:339
+#: utils/graphina_chart_helper.php:430
+#: utils/graphina_chart_helper.php:1181
+#: utils/graphina_chart_helper.php:4889
+#: utils/graphina_chart_helper.php:4939
+msgid "Type"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:351
+msgid "Data "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:364
+msgid "Default Negative Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:368
+msgid "Show default chart with some negative values"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:381
+msgid "Reload Ajax"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:396
+msgid "Set Interval(sec)"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:420
+#: utils/graphina_chart_helper.php:4929
+msgid "Dynamic Data Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:448
+#: utils/graphina_chart_helper.php:4954
+msgid "Get New Exciting Features"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:535
+msgid "Change Chart Type "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:585
+msgid "Export Filename"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:606
+msgid "When chart is empty, this text appears"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:619
+msgid "Stacked "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:640
+#: utils/graphina_chart_helper.php:3291
+msgid "Label Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:660
+msgid "Show Text"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:679
+msgid "Show Center Lable"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:701
+msgid "Show Total Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:725
+msgid "Show Always Total"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:730
+msgid "Note: Always show the total label and do not remove it even when  clicks/hovers over the slices."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:738
+msgid "Total Text"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:740
+msgid "Total"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:775
+#: utils/graphina_chart_helper.php:874
+#: utils/graphina_chart_helper.php:1972
+msgid "Note: Convert 1,000  => 1k and 1,000,000 => 1m and if Format Number(Commas) is enable this will not work"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:826
+msgid "Format(tooltip/label)"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:837
+msgid "Show label"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:851
+msgid "Show Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:986
+msgid "Show Background"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1019
+msgid "Background Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1029
+msgid "Border Width"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1041
+msgid "Border radius"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1051
+msgid "Border Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1115
+msgid "Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1154
+msgid "Gradient Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1170
+msgid "Gradient Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1185
+msgid "Vertical"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1199
+msgid "From Opacity"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1212
+msgid "To Opacity"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1225
+msgid "Inverse Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1248
+#: utils/graphina_chart_helper.php:5967
+msgid "Legend Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1256
+msgid "Legend"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1297
+#: utils/graphina_chart_helper.php:6029
+msgid "Horizontal Align"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1323
+msgid "Note: Only work if tooltip enable"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1330
+msgid "Show Series Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1364
+#: utils/graphina_chart_helper.php:4832
+#: utils/graphina_chart_helper.php:5594
+msgid "Enable Min/Max"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1373
+msgid "Note: If chart having multi series, Enable Min/Max value will be applicable to all series and xaxis Tickamount must be according to min - max value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1380
+#: utils/graphina_chart_helper.php:4844
+msgid "Min Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1388
+msgid "Note: Lowest number to be set for the x-axis. The graph drawing beyond this number will be clipped off"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1395
+#: utils/graphina_chart_helper.php:4857
+msgid "Max Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1403
+msgid "Note: Highest number to be set for the x-axis. The graph drawing beyond this number will be clipped off."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1423
+#: utils/graphina_chart_helper.php:1767
+msgid "Pointer Line"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1525
+msgid "Tick Amount(dataPoints)"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1572
+msgid "Show Time In xaxis"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1586
+msgid "Show Date In xaxis"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1602
+#: utils/graphina_chart_helper.php:1901
+msgid "Labels Prefix/Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1610
+msgid "Note: If categories data are in array form it won't work"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1617
+#: utils/graphina_chart_helper.php:1915
+#: utils/graphina_chart_helper.php:4489
+msgid "Labels Prefix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1632
+#: utils/graphina_chart_helper.php:1930
+#: utils/graphina_chart_helper.php:4504
+msgid "Labels Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1683
+#: utils/graphina_chart_helper.php:5587
+msgid "Y-Axis Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1694
+msgid "Line"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1705
+msgid "Grid Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1718
+#: utils/graphina_chart_helper.php:5910
+msgid "Zero Indicator"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1729
+msgid "Stroke Dash"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1862
+msgid "Chart-2 Tick Amount"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1881
+msgid "If you enabled \"Labels Prefix/Postfix\", this won’t have any effect."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:1997
+#: utils/graphina_chart_helper.php:4520
+msgid "Format Number"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2005
+msgid "Enabled Labels Prefix/Postfix "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2024
+msgid "Y-axis Title"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2329
+msgid "Font Family"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2331
+msgid "Notice:If possible use same font as Chart Title & Description, Otherwise it may not show the actual font you selected."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2369
+#: utils/graphina_chart_helper.php:6258
+msgid "Default"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2379
+msgid "Font Weight"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2462
+msgid "Chart Filter Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2473
+#: utils/graphina_chart_helper.php:5171
+msgid "Chart Filter"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2513
+#: utils/graphina_chart_helper.php:3317
+#: utils/graphina_chart_helper.php:5192
+msgid "Label"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2589
+msgid "DropDown"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2598
+#: utils/graphina_chart_helper.php:2705
+#: utils/graphina_chart_helper.php:2812
+msgid "Background Type"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2696
+msgid "Apply Filter Button"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2803
+msgid "Date Picker"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2967
+msgid "Animation Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2978
+msgid "Show Animation"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2988
+#: utils/graphina_chart_helper.php:3032
+msgid "Speed"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:2999
+msgid "Easing"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3003
+msgid "Linear"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3006
+msgid "In And Out"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3044
+msgid "Delay"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3079
+msgid "Show Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3090
+#: utils/graphina_chart_helper.php:3159
+msgid "Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3120
+msgid "Stroke Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3150
+#: utils/graphina_chart_helper.php:3216
+msgid "Marker Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3181
+msgid "Stroke Width"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3192
+msgid "Shape"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3197
+#: utils/graphina_chart_helper.php:3243
+msgid "Square"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3200
+msgid "Note: Hover will Not work in Square"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3237
+msgid "Point"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3242
+msgid "Triangle"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3244
+msgid "Diamond"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3245
+msgid "Star"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3246
+msgid "Polygon"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3258
+msgid " Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3302
+#: utils/graphina_chart_helper.php:5387
+#: utils/graphina_chart_helper.php:5639
+msgid "Label Show"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3305
+#: utils/graphina_chart_helper.php:3401
+#: utils/graphina_chart_helper.php:3418
+msgid "no"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3312
+msgid "Label Text"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3318
+#: utils/graphina_chart_helper.php:3568
+#: utils/graphina_chart_helper.php:6073
+msgid "Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3320
+#: utils/graphina_chart_helper.php:3567
+#: utils/graphina_chart_helper.php:6072
+msgid "Value And Percentage"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3332
+#: utils/graphina_chart_helper.php:5410
+#: utils/graphina_chart_helper.php:5663
+msgid "Label Prefix/Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3346
+#: utils/graphina_chart_helper.php:3733
+#: utils/graphina_chart_helper.php:5423
+#: utils/graphina_chart_helper.php:5676
+msgid "Prefix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3358
+#: utils/graphina_chart_helper.php:3745
+#: utils/graphina_chart_helper.php:5435
+#: utils/graphina_chart_helper.php:5688
+msgid "Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3370
+msgid "Label Text Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3383
+msgid "Label Text Fontsize"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3398
+msgid "Reverse Categories"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3415
+msgid "3D "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3427
+msgid "Pieslice Border"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3437
+msgid "pieHole"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3452
+msgid "Stacked Show "
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3473
+msgid "Tooltip Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3484
+msgid "Show Tooltip"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3495
+msgid " Trigger"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3498
+msgid "On Hover"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3499
+msgid "On Selection"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3537
+#: utils/graphina_chart_helper.php:6161
+msgid "Bold"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3548
+#: utils/graphina_chart_helper.php:6172
+msgid "Italic"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3563
+msgid "Text"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3591
+msgid "Column Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3608
+msgid "Stacked Show"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3622
+msgid "Absolute"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3623
+msgid "Relative"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3624
+msgid "percent"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3645
+msgid "Annotation Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3653
+msgid "Show Annotation"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3686
+msgid "Stem Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3697
+msgid " Fontsize"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3720
+msgid "Annotation Prefix/Postfix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3761
+msgid "Warning: This will may not work if markers are not shown."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3778
+msgid "Warning: This will may not work for horizontal column chart."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3783
+msgid "Shared"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3799
+msgid "Theme"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3804
+msgid "Light"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3808
+msgid "Dark"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3839
+msgid "Drop Shadow Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3858
+msgid "Drop Shadow Top Position"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3870
+msgid "Drop Shadow Left Position"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3882
+msgid "Drop Shadow Blur"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3896
+msgid "Drop Shadow Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3909
+msgid "Drop Shadow Opacity"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:3971
+#: utils/graphina_chart_helper.php:6196
+#: utils/graphina_chart_helper.php:6315
+msgid "Elements Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4025
+msgid "Tooltip Enabled"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4066
+#: utils/graphina_chart_helper.php:4771
+msgid "Fill Pattern"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4205
+msgid "Restriction content access"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4212
+msgid "Restriction Based On"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4215
+msgid "No Restriction Access"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4216
+msgid "Logged In User"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4217
+msgid "Password Protected"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4218
+msgid "Role Based Access"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4219
+msgid "UserName Based Access"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4227
+msgid "Set Password"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4238
+msgid "Headline"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4240
+msgid "Protected Area"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4252
+msgid "Button Label"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4254
+msgid "Submit"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4263
+msgid "Error"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4267
+msgid "Notice:Error message when incorrect password enter"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4278
+msgid "Error message"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4280
+msgid "Password is invalid"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4291
+msgid "Instructions Text"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4294
+msgid "This content is password-protected. Please verify with a password to unlock the content."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4306
+msgid "Select Roles"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4320
+msgid "Select User"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4334
+msgid "Restricted Template View (shortcode)"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4336
+msgid "<div style=\"padding: 30px; text-align: center;\"><h5>You don't have permission to see this content.</h5><a class=\"button\" href=\"/wp-login.php\">Unlock Access</a></div>"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4445
+msgid "Enable Opposite Title"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4474
+msgid "Show Label"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4537
+msgid "Opposite Y-axis Title"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4568
+msgid "Selection Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4575
+msgid "Xaxis"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4577
+msgid "Enable"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4586
+msgid "Min"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4600
+msgid "Max"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4614
+msgid "Fill"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4643
+msgid "Stroke"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4662
+msgid "Dash"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4795
+#: utils/graphina_chart_helper.php:4812
+msgid "Notice:This will not work in column chart"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4837
+msgid "Note: If chart having multi series, Enable Min/Max value will be applicable to all series and Yaxis Tickamount must be according to min - max value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4850
+msgid "Note: Lowest number to be set for the y-axis. The graph drawing beyond this number will be clipped off"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4863
+msgid "Note: Highest number to be set for the y-axis. The graph drawing beyond this number will be clipped off."
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4873
+msgid "Data Options"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4977
+msgid "Change Chart Type Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:4989
+msgid "Select Text Typography"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5036
+msgid "Select Background Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5117
+msgid "Select Border Radius"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5179
+msgid "Enable Filter"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5194
+msgid "Choose Option"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5195
+#: utils/graphina_chart_helper.php:5208
+msgid "Note: This key is use where you want to use selected option value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5205
+msgid "Add Filter Keys"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5207
+msgid "{{key_1}}"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5218
+msgid "Filter Type"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5223
+msgid "Select Dropdown"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5224
+msgid "Datepicker"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5235
+msgid "Date Type"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5240
+msgid "DateTime"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5241
+msgid "Date"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5257
+#: utils/graphina_chart_helper.php:5283
+msgid "Default Date"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5312
+msgid "Add Select Dropdown Filter Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5314
+msgid "Value,Value1"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5315
+msgid "<strong>Note: Value are seperator by comma, value is use as option <u>("
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5334
+msgid "Add Select Dropdown Filter Name"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5336
+msgid "Name1,Name2"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5337
+msgid "<strong> Note: Name are seperator by comma ,Name is use as option <u>("
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5356
+msgid "Filter Tab"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5380
+#: utils/graphina_chart_helper.php:5632
+msgid "Label Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5397
+#: utils/graphina_chart_helper.php:5650
+msgid "Label Position"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5472
+msgid "Label Rotate"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5485
+msgid "Label Rotate Angle"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5500
+#: utils/graphina_chart_helper.php:5758
+msgid "Reverse Category"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5521
+#: utils/graphina_chart_helper.php:5805
+msgid "Title Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5528
+#: utils/graphina_chart_helper.php:5812
+msgid "Title Show"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5553
+#: utils/graphina_chart_helper.php:5837
+msgid "Title Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5565
+#: utils/graphina_chart_helper.php:5849
+msgid " Title Fontsize"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5604
+msgid "Yaxis Min Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5615
+msgid "Yaxis Max Value"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5730
+#: utils/graphina_chart_helper.php:5743
+msgid "Reverse Direction"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5769
+#: utils/graphina_chart_helper.php:6150
+msgid "Number Format"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5774
+msgid "Scientific"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5775
+msgid "Currency"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5776
+msgid "Percent"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5777
+msgid "Short"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5778
+msgid "Long"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5787
+msgid "Currency Prefix"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5869
+msgid "Gridline Setting"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5876
+msgid "Line Show"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5886
+msgid "Gridline Count"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5898
+msgid "Gridline color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5919
+msgid "Log Scale Settings"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5943
+msgid "Scale Type"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5947
+msgid "Log"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5948
+msgid "MirrorLog"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5974
+msgid "Show Legend"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5986
+#: utils/graphina_chart_helper.php:6056
+msgid "Legend Position"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:5999
+#: utils/graphina_chart_helper.php:6085
+msgid "Legend Text Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6011
+#: utils/graphina_chart_helper.php:6097
+msgid "Legend Text Fontsize"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6034
+msgid "Start"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6042
+msgid "End"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6068
+msgid "Labeled Value Text"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6074
+msgid "Percentages"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6115
+msgid "Legend Color"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6126
+msgid "Legend Size"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6242
+msgid " LineWidth"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6254
+msgid " Line Dash Style"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6259
+msgid "Style 1"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6260
+msgid "Style 2"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6261
+msgid "Style 3"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6262
+msgid "Style 4"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6263
+msgid "Style 5"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6264
+msgid "Style 6"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6265
+msgid "Style 7"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6266
+msgid "Style 8"
+msgstr ""
+
+#: utils/graphina_chart_helper.php:6267
+msgid "Style 9"
+msgstr ""
+
+#: utils/graphina_general_helper.php:81
+msgid "Required <strong>Version "
+msgstr ""
+
+#: utils/graphina_general_helper.php:83
+msgid "Download Version "
+msgstr ""
+
+#: utils/graphina_general_helper.php:163
+#: utils/graphina_general_helper.php:171
+msgid "Download SVG"
+msgstr ""
+
+#: utils/graphina_general_helper.php:164
+msgid "Selection"
+msgstr ""
+
+#: utils/graphina_general_helper.php:165
+msgid "Selection Zoom"
+msgstr ""
+
+#: utils/graphina_general_helper.php:166
+msgid "Zoom In"
+msgstr ""
+
+#: utils/graphina_general_helper.php:167
+msgid "Zoom Out"
+msgstr ""
+
+#: utils/graphina_general_helper.php:168
+msgid "Panning"
+msgstr ""
+
+#: utils/graphina_general_helper.php:169
+msgid "Reset Zoom"
+msgstr ""
+
+#: utils/graphina_general_helper.php:170
+msgid "Menu"
+msgstr ""
+
+#: utils/graphina_general_helper.php:172
+msgid "Download PNG"
+msgstr ""
+
+#: utils/graphina_general_helper.php:173
+msgid "Download CSV"
+msgstr ""

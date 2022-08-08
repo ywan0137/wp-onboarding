@@ -1,0 +1,610 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ :root{
+    --graphina-primary:#0073aa;
+ }
+.graphina-main {
+    padding: 25px;
+    display: grid;
+}
+.graphina-header {
+    padding: 10px;
+    height: auto;
+    background: #fff;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0px 8px 21px 0px rgba(36, 39, 50, 0.08);
+    margin-bottom: 20px;
+}
+
+.graphina-header-left {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.graphina-header-right {
+    text-align: right;
+    flex-grow: 1;
+}
+
+.graphina-header-logo{
+    width: 60px;
+    padding: 5px 10px;
+}
+
+.graphina-tabs ul {
+    margin-bottom: 0;
+}
+.graphina-tabs ul li {
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.graphina-tabs ul li a{
+    padding: 20px 23px;
+    color: #252525;
+    font-size: 15px;
+    font-weight: 600;
+    background: #f8fafb;
+    text-decoration: none;
+    margin-right: 5px;
+    display: block;
+    border-radius: 4px 4px 0 0;
+}
+.graphina-tabs ul li a:focus
+{
+    box-shadow: unset;
+}
+.graphina-tabs .active-tab a{
+    color: var(--graphina-primary);
+    border-color: var(--graphina-primary);
+    border-style: solid;
+    border-width: 2px 2px 0 2px;
+}
+
+.graphina-tab {
+    background: #fff;
+    padding: 15px 25px;
+    border-top: none;
+    position: relative;
+}
+
+.graphina-tab-detail{
+    display: none;
+}
+.graphina-tab-detail h1 {
+    margin-left: 10px;
+}
+
+.graphina-tab-detail:first-child{
+    display: block;
+}
+
+.graphina-tab h3 {
+    font-size: 20px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+.graphina-tab .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.col-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.graphina-checkbox {
+    position: relative;
+    display: flex;
+    flex-basis: 350px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    margin: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(233, 233, 233);
+    box-shadow: 0px 9px 38.8px 1.2px rgba(0, 0, 0, 0.07);
+}
+
+.graphina-checkbox .info {
+    display: flex;
+    align-items: center;
+}
+.graphina-checkbox .info p {
+    font-size: 15px;
+    font-weight: 600;
+    color: #3a3c40;
+    margin: 0.5em;
+}
+
+.graphina-checkbox label {
+    position: relative;
+    cursor: pointer;
+    display: block;
+}
+
+.switch {
+    display: inline-block;
+}
+.switch input {
+    display: none;
+}
+.switch small {
+    display: inline-block;
+    width: 52px;
+    height: 25px;
+    background: #455a64;
+    border-radius: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.switch small:before {
+    content: "";
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    background: #fff;
+    border-radius: 50%;
+    top: 3px;
+    left: 3px;
+    transition: .3s;
+    box-shadow: -3px 0 3px rgba(0,0,0,0.1);
+}
+.switch small:after {
+    content: "OFF";
+    position: absolute;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    width: 100%;
+    left: 0px;
+    text-align: right;
+    padding: 3px 6px;
+    box-sizing: border-box;
+    line-height: 18px;
+}
+
+.switch input:checked ~ small {
+    background: #2dcbbe;
+    transition: .3s;
+}
+.switch input:checked ~ small:before {
+    transform: translate(25px, 0px);
+    transition: .3s;
+}
+.switch input:checked ~ small:after {
+    content: "On";
+    text-align: left;
+}
+
+.graphina-setting-save{
+    margin-left: 10px;
+}
+
+.graphina-tabs .graphina_document_button {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    border: 2px solid var(--graphina-primary);
+    border-radius: 3px;
+    color: var(--graphina-primary);
+    cursor: pointer;
+    display: -webkit-box;
+    display: flex;
+    align-self: center;
+    font-size: 1rem;
+    line-height: 1;
+    padding: 1.0em 1.8em;
+    text-decoration: none;
+    font-weight: 700;
+    width: max-content;
+}
+.graphina-setting-save {
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+.graphina_document_button:hover {
+    background-color:var(--graphina-primary);
+    color: #fff;
+}
+
+.graphina-tabs .graphina_card {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.graphina-tabs .graphina_card_body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.graphina-tabs .graphina_card_title {
+    margin-bottom: .75rem;
+    color: var(--graphina-primary);
+}
+
+.graphina-tabs .graphina_card .graphina_card_body .graphina_card_text {
+    font-size: .9rem;
+    font-weight: 400;
+    color: #0a0a0a;
+}
+
+.graphina-tabs .graphina_card_body .graphina_document_button {
+    margin-top: 20px;
+}
+
+.graphina-tabs .pro-status {
+    position: absolute !important;
+    top: 2px;
+    left: -25px;
+    background: rgb(213,51,97);
+    background: linear-gradient(219deg, rgba(213,51,97,1) 0%, rgba(62,48,118,1) 100%);
+    padding: 0px 30px;
+    font-size: 14px;
+    transform: rotate(-35deg);
+    COLOR: #FFFFFF;
+    font-weight: 700;
+}
+
+.graphina-tabs .get-pro-btn {
+    background: linear-gradient(219deg, rgba(213,51,97,1) 0%, rgba(62,48,118,1) 100%);
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.get-pro-btn:hover, .get-pro-btn:active, .get-pro-btn:visited {
+    color: white;
+}
+
+.swal2-title{
+    line-height: normal;
+}
+
+.graphina_test_btn{
+    color: #fff;
+    background-color: var(--graphina-primary);
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 300;
+    padding: 10px 10px;
+    width: max-content;
+    border: 1px solid var(--graphina-primary);
+    margin: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.graphina_form_title{
+    color: var(--graphina-primary);
+    padding: 0 20px;
+}
+
+.graphina_form_body{
+    padding: 15px;
+}
+
+.graphina-settings-db-tab tr{
+    display: flexbox;
+}
+
+#setting input[type=text]{
+    padding: 5px;
+    margin: 0 10px;
+    width: unset;
+}
+.graphina-admin-charts-setting input#graphina_setting_text {
+    height: 30px;
+}
+
+#graphina_database_select {
+    width:25%;
+}
+
+#setting select{
+    /*padding: 5px 23em 5px 12px !important;*/
+    margin: 0 10px;
+}
+
+select#graphina_setting_select {
+    width: 200px;
+    border-color: #cccccc;
+}
+
+.graphina_label_1{
+    color: var(--graphina-primary);
+    padding: 0 15rem 0 10px !important;
+    font-size: 20px !important;
+}
+
+.graphina_label_2{
+    padding: 0 6.95cm 0 10px !important;
+    font-size: 20px !important;
+}
+
+.graphina_label_3{
+    padding: 0 8.3cm 0 10px !important;
+    font-size: 20px !important;
+}
+
+/*input[type=password]{*/
+/*    padding: 5px;*/
+/*    margin: 10px;*/
+/*    width: 400px;*/
+/*}*/
+
+.graphina_db_table_data{
+text-align: unset;
+}
+.graphina_label_1,.graphina_label_2,.graphina_label_3{
+    color: var(--graphina-primary);
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+/*table tr th{*/
+/*padding-right: 10px;*/
+/*  }*/
+
+/*table{*/
+/*    color: var(--graphina-primary);*/
+/*    padding-left: 25px;*/
+/*    padding-right: 25px;*/
+/*    font-size: 20px;*/
+/*    overflow-x:auto;*/
+/*}*/
+
+
+/*table > thead > tr >th{*/
+/*    font-weight: 400;*/
+/*}*/
+/*.graphina_db_table{*/
+/*    overflow-x: auto;*/
+/*    border: 2px solid;*/
+/*    border-radius: 20px;*/
+/*}*/
+
+/*.graphina_table_label{*/
+/*    font-weight: 350;*/
+/*}*/
+
+#graphina_settings_tab > div > span,input[type=checkbox]{
+    color: var(--graphina-primary);
+    font-size: 20px;
+}
+
+#graphina_setting_select,#graphina_setting_text,#graphina_setting_save_button{
+    margin: 15px 0px;
+}
+
+input[type=checkbox]:focus{
+    box-shadow: 0 0 0 1px var(--graphina-primary);
+    border-color: var(--graphina-primary);
+}
+
+.graphina-tab-detail-addon .col{
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+input[type=text],textarea,input[type=password] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.input1[type=text], select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.form-label{
+    padding: 12px 0;
+    display: inline-block;
+    color:var(--graphina-primary);;
+}
+
+input[type=submit] {
+    background-color:var(--graphina-primary);;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+    margin-right: 20px;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.button {
+    background-color: var(--graphina-primary);;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 9px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1px 0px;
+    cursor: pointer;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+    margin-right: 20px;
+}
+
+.col-75 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.head-border{
+    border-bottom: 1px solid #ccc;
+    color:var(--graphina-primary);;
+    padding-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-top: 1px solid black;
+    margin-top: 2rem;
+    color:var(--graphina-primary);;
+}
+
+.w-36{
+    width: 36%;
+}
+.w-10{
+    width: 10%;
+}
+
+
+@media (max-width: 576px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+    .btn-submit{
+        margin-bottom: 10px;
+    }
+    .w-36{
+        width: unset;
+    }
+    .w-10{
+        width: unset;
+    }
+    .graphina-main {
+        padding: 0;
+    }
+}
+
+#graphina-settings-db-tab label,table{
+    font-size: 15px;
+}
+
+.graphina-badge {
+    position: absolute;
+    top: 2px;
+    right: 10px;
+    background: var(--graphina-primary);
+    color: white;
+    border-radius: 4px;
+    padding: 1px 5px;
+}
+
+.graphina-d-none {
+    display: none;
+}
+
+#graphina_settings_tab > div > span.check-value {
+    color: #000000;
+    font-size: 16px;
+    margin-right: 15px;
+}
+#graphina_settings_tab > div > span.select-chart-title {
+    font-size: 18px;
+    margin-right: 5px;
+    position: relative;
+}
+.graphina-admin-charts-setting {
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.graphina-admin-charts-setting .graphina-chart-note {
+    margin-top: 5px;
+}
+
+.graphina-admin-charts-setting .select-chart-title .graphina-badge {
+    position: static;
+    background: var(--graphina-primary);
+    color: white;
+    border-radius: 4px;
+    padding: 3px 3px;
+    font-size: 13px;
+    line-height: 14px;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
